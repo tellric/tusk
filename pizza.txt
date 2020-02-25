@@ -3,7 +3,7 @@
 Recipe from Navin Reddy
 
 
-1. Go to tellric.com
+1. Go to <a href="tellric.com"> tellric.com </a>
 2. Select the pizza.
 3. Order
 
